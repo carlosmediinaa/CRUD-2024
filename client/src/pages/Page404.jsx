@@ -1,7 +1,5 @@
 function Page404() {
-  return (
-    <div>Page404 Not Found</div>
-  )
+  return <div>Page404 Not Found</div>;
 }
 
-export default Page404
+export default Page404;
