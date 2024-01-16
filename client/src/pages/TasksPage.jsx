@@ -18,7 +18,7 @@ function TasksPage() {
 
   return (
     <>
-      <h2 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900">
+      <h2 className="mb-8 mt-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900">
         Tasks
       </h2>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
